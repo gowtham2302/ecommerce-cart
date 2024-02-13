@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "image": "https://cdn.pixabay.com/photo/2013/07/13/11/50/car-158795_960_720.png",
+    "name": "Car",
+    "available": 30,
+    "price": 40
+  },
+  {
+    "id": 2,
+    "image": "https://media.istockphoto.com/id/495344236/photo/orange-half-fruit-isolated-on-white-background.jpg?s=612x612&w=is&k=20&c=1TWpbFgYTTatmHQd0XnIl5ivXgnCKFNspf8WsNxk03c=",
+    "name": "Orange",
+    "available": 30,
+    "price": 60
+  },
+  {
+    "id": 3,
+    "image": "https://cdn.pixabay.com/photo/2016/03/27/19/19/bicycle-1283785_960_720.jpg",
+    "name": "Cycle",
+    "available": 30,
+    "price": 70
+  },
+  {
+    "id": 4,
+    "image": "https://media.istockphoto.com/id/120086722/photo/pencil.jpg?s=612x612&w=is&k=20&c=oN3ryshykesS2lbLL1K0HTaB4f5nBxRvJ_ljGCXgDWA=",
+    "name": "Pencil",
+    "available": 30,
+    "price": 90
+  }
+]
